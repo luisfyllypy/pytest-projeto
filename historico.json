@@ -1,0 +1,6 @@
+[
+  {
+    "operacao": "soma(10, 5)",
+    "resultado": 15
+  }
+]
